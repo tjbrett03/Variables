@@ -19,9 +19,13 @@ public class Variables
 		//integer variables
 		byte byteOne = 127;
 		short shortOne = 420;
-		int intOne = 42069;
-		long longOne = 157290235;
+		int intOne = 123832;
+		long longOne = 42069;
+		float floatOne = 738123;
+		double doubleOne = 69;
+		char charOne = 'E';
 		
+
 		//decimal variables
 
 
@@ -40,6 +44,7 @@ public class Variables
 		System.out.println("*16 bit - shortOne = "+shortOne+"\t*");
 		System.out.println("*32 bit - intOne = "+intOne+"\t*");
 		System.out.println("*64 bit - longOne = "+longOne+"\t*");
+		System.out.println("\t real types\t");
 
 
 
